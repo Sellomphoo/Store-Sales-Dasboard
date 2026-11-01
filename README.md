@@ -7,8 +7,8 @@ The project centres on one correctness question: does `Discount_Applied(%)` need
 
 ## Dashboard
 
-![Store Sales Dashboard](./screenshots/dashboard-overview.png)
 ![Store Sales Dashboard](./screenshots/dashboard-overview1.png)
+![Store Sales Dashboard](./screenshots/dashboard-overview.png)
 ![Store Sales Dashboard](./screenshots/clean1.png)
 ![Store Sales Dashboard](./screenshots/clean2.png)
 ![Store Sales Dashboard](./screenshots/clean3.png)
